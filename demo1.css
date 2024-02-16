@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+
+.header{
+    background-color: lightgreen;
+    padding: 50px;
+    text-align: center;
+    
+    
+    
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    
+  
+}
+.big{
+    font-size: 40px;
+    display: inline;
+}
+
+.small{
+    font-size: 20px;
+    display: inline;
+}
+.Collaboration{
+    background-color: white;
+    text-align: center;
+    margin-top: 30px;
+  
+}
+.row{
+    
+    width: 33.33%;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+
+
+.footer{
+   
+    width: 33.33%;
+    padding:50px;
+    text-align: center;
+   
+    
+    
+}
+.parent{
+    display: flex;
+
+}
+
+.Dynamically{
+background-color: orange;
+}
+
+.parent{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
